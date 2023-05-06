@@ -29,4 +29,4 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
-![MattSilvaFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=MattSilvaFonseca&count_private=true&theme=highcontrast&locale=pt-br)
+![MatheusDSFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=MattSilvaFonseca&count_private=true&theme=highcontrast&locale=pt-br)
