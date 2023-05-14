@@ -30,5 +30,3 @@ _**Softwares utilizados:**_
 
 ![MatheusDSFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDSFonseca&count_private=true&theme=dark&locale=pt-br)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDSFonseca&count_private=true&theme=dark&locale=pt-br&langs_count=3)
 </div>
-
-![snake gif](https://github.com/MatheusDSFonseca/MatheusDSFonseca/blob/output/github-contribution-grid-snake.gif)
