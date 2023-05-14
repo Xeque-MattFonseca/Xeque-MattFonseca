@@ -6,6 +6,8 @@ Interessado e apaixonado por eletrônicos desde criança, adentrei na área da t
 
  _**Tecnologias conhecidas:**_
 
+
+
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,13 +21,20 @@ Interessado e apaixonado por eletrônicos desde criança, adentrei na área da t
 _**Softwares utilizados:**_
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
-   _**Estatísticas gerais:**_
+_**Estatísticas gerais:**_
+
+
+</h3>
+<div>
 
 ![MatheusDSFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDSFonseca&count_private=true&theme=highcontrast&locale=pt-br)
 
+
+</div>
 </h3>
