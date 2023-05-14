@@ -2,7 +2,7 @@
 ---
  <h3 align=center>
 
-  <sub> Interessado e apaixonado por eletrônicos desde criança, adentrei na área da tecnologia da informação em 2019, estudando para saber cada vez mais desde então.</sub>
+  Interessado e apaixonado por eletrônicos desde criança, adentrei na área da tecnologia da informação em 2019, estudando para saber cada vez mais desde então.
   
   _**Tecnologias conhecidas:**_
 
