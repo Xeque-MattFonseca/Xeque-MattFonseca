@@ -2,7 +2,7 @@
 ---
 <h3 align=center>
 
-Interessado e apaixonado por eletrônicos desde criança, adentrei na área da tecnologia da informação em 2019 através do desenvolvimento mobile, onde desde então estudo para conhecer cada vez mais da área.
+Interessado e apaixonado por eletrônicos desde criança, adentrei na área da tecnologia da informação em 2019 através do desenvolvimento mobile, onde desde então estudo para conhecer cada vez mais do ramo.
 
  _**Tecnologias conhecidas:**_
 
