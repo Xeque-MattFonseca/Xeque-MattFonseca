@@ -28,6 +28,6 @@ _**Softwares utilizados:**_
 </h3>
 <div>
 
-![MatheusDSFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDSFonseca&count_private=true&theme=highcontrast&locale=pt-br)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDSFonseca&count_private=true&theme=highcontrast&locale=pt-br&langs_count=3)]
+![MatheusDSFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDSFonseca&count_private=true&theme=dark&locale=pt-br)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDSFonseca&count_private=true&theme=dark&locale=pt-br&langs_count=3)]
 </div>
