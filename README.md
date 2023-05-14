@@ -1,9 +1,10 @@
-***Bem-vindo(a) ao meu perfil! Eu sou o Matheus...***
+****Bem-vindo(a) ao meu perfil! Eu sou o Matheus...****
 
- 
- <h3 align=center> Interessado e apaixonado por eletrônicos desde criança, adentrei na área da tecnologia da informação em 2019, estudando para saber cada vez mais desde então.
+ <h3 align=center>
+
+  <sub> Interessado e apaixonado por eletrônicos desde criança, adentrei na área da tecnologia da informação em 2019, estudando para saber cada vez mais desde então.</sub>
   
-  _**tecnologias conhecidas:**_
+  _**Tecnologias conhecidas:**_
 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,5 +22,8 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
+   **Estatísticas Gerais:**
+
 ![MatheusDSFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDSFonseca&count_private=true&theme=highcontrast&locale=pt-br)
+
 </h3>
