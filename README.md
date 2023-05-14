@@ -1,5 +1,5 @@
 ***Bem-vindo(a) ao meu perfil! Eu sou o Matheus...***
-
+ 
   Interessado e apaixonado por eletrônicos desde criança, adentrei na área da tecnologia da informação em 2019, estudando para saber cada vez mais desde então.
   
   _**tecnologias que tenho conhecimento:**_
@@ -30,5 +30,3 @@
 </div>
 
 ![MatheusDSFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDSFonseca&count_private=true&theme=highcontrast&locale=pt-br)
-
-
