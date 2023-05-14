@@ -1,4 +1,4 @@
-****Bem-vindo(a) ao meu perfil! Eu sou o Matheus, um programador back-end...****
+****Bem-vindo(a) ao meu perfil! Eu sou o Matheus...****
 ---
 <h3 align=center>
 
@@ -22,7 +22,7 @@ Interessado e apaixonado por eletrônicos desde criança, adentrei na área da t
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
-   **Estatísticas Gerais:**
+   _**Estatísticas Gerais:**_
 
 ![MatheusDSFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDSFonseca&count_private=true&theme=highcontrast&locale=pt-br)
 
