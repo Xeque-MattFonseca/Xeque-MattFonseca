@@ -2,9 +2,7 @@
 
   Interessado e apaixonado por eletrônicos desde criança, adentrei na área da tecnologia da informação em 2019, estudando para saber cada vez mais desde então.
   
-  _**tecnologias que tenho conhecimento:**_
-
-<div style=display: inline_block><br/>
+  _**tecnologias conhecidas:**_
 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
