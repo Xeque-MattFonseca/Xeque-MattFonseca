@@ -2,7 +2,7 @@
 ---
 <h3 align=center>
 
-Interessado e apaixonado por eletrônicos desde criança, adentrei na área da tecnologia da informação em 2019, estudando para saber cada vez mais desde então.
+Interessado e apaixonado por eletrônicos desde criança, adentrei na área da tecnologia da informação em 2019 através do desenvolvimento mobile, onde desde então estudo para conhecer cada vez mais da área.
 
  _**Tecnologias conhecidas:**_
 
@@ -32,6 +32,5 @@ _**Estatísticas gerais:**_
 <div>
 
 ![MatheusDSFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDSFonseca&count_private=true&theme=highcontrast&locale=pt-br)
-
 
 </div>
