@@ -17,7 +17,7 @@ Interessado e apaixonado por eletrônicos desde criança, adentrei na área da t
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <div/>
 
-**Softwares utilizados:**
+_**Softwares utilizados:**_
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
