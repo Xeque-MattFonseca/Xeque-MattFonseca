@@ -28,5 +28,5 @@ _**Softwares utilizados:**_
 </h3>
 <div>
 
-![Xeque-Matt GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-SFonseca&count_private=true&theme=dark&locale=pt-br)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-SFonseca&count_private=true&theme=dark&locale=pt-br&langs_count=3)
+![Xeque-MattFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-SFonseca&count_private=true&theme=dark&locale=pt-br)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-SFonseca&count_private=true&theme=dark&locale=pt-br&langs_count=3)
 </div>
