@@ -2,7 +2,7 @@
 ---
 <h3 align=center>
 
-Interessado e apaixonado por eletrônicos desde criança, estou focado em conhecer e conhecer cada vez mais do ramo.
+Interessado e apaixonado por eletrônicos desde criança, estou focado em conhecer e aprender cada vez mais do ramo.
 
  _**Tecnologias conhecidas:**_
 
