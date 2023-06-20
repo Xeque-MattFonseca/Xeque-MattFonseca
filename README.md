@@ -1,4 +1,4 @@
-****Bem-vindo(a) ao meu perfil! Eu sou o Matheus, um programador back-end...****
+****Bem-vindo(a) ao meu perfil! Eu sou o Matheus...****
 ---
 <h3 align=center>
 
