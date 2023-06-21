@@ -2,7 +2,7 @@
 ---
 <h3 align=center>
 
-Interessado e apaixonado por eletrônicos desde criança, estou focado em conhecer e aprender cada vez mais do ramo.
+Interessado e apaixonado por eletrônicos desde criança, comecei os estudos na área da programação em 2019 e foco em conhecer e aprender cada vez mais do ramo desde então.
 
  _**Tecnologias conhecidas:**_
 
