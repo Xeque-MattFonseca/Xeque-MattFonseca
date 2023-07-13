@@ -1,9 +1,7 @@
-****Bem-vindo(a) ao meu perfil! Eu sou o Matheus...****
+****Bem-vindo(a) ao meu perfil! Eu sou o Matheus****
 ---
 <h3 align=center>
-
-Interessado e apaixonado por eletrônicos desde criança, comecei os estudos na área da programação em 2019 e foco em conhecer e aprender cada vez mais do ramo desde então.
-
+ 
  _**Tecnologias conhecidas:**_
 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
